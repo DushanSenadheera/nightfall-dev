@@ -1,0 +1,21 @@
+{
+  "name": "nightfalldev",
+  "displayName": "NightfallDev",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.54.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "NightfallDev",
+        "uiTheme": "vs-dark",
+        "path": "./themes/NightfallDev-color-theme.json"
+      }
+    ]
+  }
+}
