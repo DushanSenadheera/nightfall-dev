@@ -1,20 +1,5 @@
 {
 	"name": "NightfallDev",
-	"displayName": "NightfallDev",
-	"description": "A dark theme for Visual Studio Code",
-	"version": "1.0.0",
-	"publisher": "DushanSenadheera",
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/DushanSenadheera/nightfall-dev",
-	},
-	"keywords": [
-		"dark theme",
-		"dark",
-		"theme",
-		"color",
-		"nightfalldev"
-	],
 	"colors": {
 		"editor.background": "#263238",
 		"editor.foreground": "#eeffff",
